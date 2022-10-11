@@ -1,13 +1,13 @@
 {
-    "name": "corcel/woocommerce",
-    "description": "WooCommerce plugin for Corcel",
-    "homepage": "http://github.com/corcel/woocommerce",
+    "name": "studio-wecrea/corcel-woocommerce",
+    "description": "WooCommerce plugin for Corcel - fork of corcel/woocommerce",
+    "homepage": "http://github.com/studio-wecrea/corcel-woocommerce",
     "license": "MIT",
     "authors": [
         {
-            "name": "Krzysztof Grabania",
-            "email": "krzysztof@grabania.pl",
-            "homepage": "https://grabania.pl"
+            "name": "wecrea",
+            "email": "hello+github@wecrea.com",
+            "homepage": "https://wecrea.com"
         }
     ],
     "require": {
