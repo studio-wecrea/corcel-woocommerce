@@ -14,7 +14,7 @@
         "php": "^8.0.3",
         "illuminate/database": "^9.0",
         "illuminate/support": "^9.0",
-        "jgrossi/corcel": "^6.0",
+        "studio-wecrea/corcel": "^6.0",
         "nesbot/carbon": "^2.53.1"
     },
     "require-dev": {
